@@ -1,0 +1,12 @@
+ 
+ .card-board{
+     background-color: rgba(220, 235, 19, 0.267);
+     min-height: 200px;
+ }
+ .card-board img{
+     min-height: 200px;
+ }
+ .card-body{
+     text-align: justify;
+ }
+ 

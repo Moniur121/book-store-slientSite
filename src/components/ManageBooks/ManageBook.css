@@ -1,0 +1,10 @@
+.title-area span{
+    color: rgb(238, 6, 6);
+    font-size: 30px;
+    font-weight: bold;
+    
+}
+.bg-manageBooks{
+    background-color: rgba(0, 0, 0, 0.322);
+    padding: 20px;
+}

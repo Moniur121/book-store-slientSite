@@ -1,0 +1,78 @@
+[
+    {
+        "id": 1,
+        "name": "HADITH",
+        "image":"https://images-na.ssl-images-amazon.com/images/I/51X5D2F7T4L._SX335_BO1,204,203,200_.jpg",
+        "price":"$100" 
+    },
+    {
+        "id": 2,
+        "name": "QURAN",
+        "image":"https://k.nooncdn.com/t_desktop-pdp-v1/v1565339491/N24283872A_1.jpg" ,
+        "price":"$120"
+       },
+    {
+        "id": 3,
+        "name": "BISSHO NOBIR JIBONI",
+        "image":"https://guptodhon.com.bd/images/thumbs/0022103_biswhanobi-hajrat-muhammod-sm-er-jiboni-download-book_550.jpeg",
+        "price":"$250"
+     },
+    
+    {
+        "id": 4,
+        "name": "ISLAMIC FINANCE",
+        "image":"https://images.booksense.com/images/943/912/9783319912943.jpg",
+        "price":"$200"
+     },
+    {
+        "id": 5,
+        "name": "ISLAMIC SHARIA",
+        "image":"https://images.booksense.com/images/193/313/9781788313193.jpg" ,
+        "price":"$180"
+       },
+    {
+        "id": 6,
+        "name": "MEDICAL SCIENCE",
+        "image":"http://www.prophets-medicine.com/wp-content/uploads/2015/07/image30.jpeg" ,
+        "price":"$220"  
+     },
+    {
+        "id": 7,
+        "name": "KARBALA",
+        "image":"https://alqurans.com/img/book/Karbalar_Prantore_By_Muhammad_Shafi_Ukarvi.jpg"  ,
+        "price":"$140"
+      },
+    {
+        "id": 8,
+        "name": "ISLAMIC STORY",
+        "image":"https://s2982.pcdn.co/wp-content/uploads/2019/02/the-story-of-reason-by-sari-nusseibeh-cover-189x300.jpg.optimal.jpg"   ,
+        "price":"$260"
+     },
+    {
+        "id": 9,
+        "name": "KITAB-UN-NIKAH",
+        "image":"https://pictures.abebooks.com/isbn/9788172311858-us.jpg"   ,
+        "price":"$170"
+
+     },
+   
+    {
+        "id": 10,
+        "name": "ISLAMIC LOW",
+        "image":"https://images.booksense.com/images/487/274/9781474274487.jpg",
+        "price":"$230"
+    },
+    {
+        "id": 11,
+        "name": "MUSLIM BABY",
+        "image":"https://hikmah.co.za/wp-content/uploads/2019/08/for-boys-image.jpg"   ,
+        "price":"$90"
+     },
+    {
+        "id": 12,
+        "name": "ISLAMIC DYNASTIES",
+        "image":"https://catchofthedaybooks.b-cdn.net/wp-content/uploads/2020/06/233.jpg"   ,
+        "price":"$300"
+     }
+    
+]

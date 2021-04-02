@@ -1,0 +1,11 @@
+ .title-header{
+     background-color: rgb(75, 55, 167);
+     padding: 10px;
+ }
+ 
+ .deleteBook-area span{
+     color: white;
+     font-size: 25px;
+     margin-left: 15px;
+    /* text-align: center; */
+ }
